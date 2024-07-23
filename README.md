@@ -1,15 +1,16 @@
 # Atividade-sistema-banco
-Está é uma atividade de sistema bancário desenvolvido com JavaScript e Node.js
+Está é uma atividade de sistema bancário desenvolvido com JavaScript e Node.js. 
+Apenas imita algumas funcionalidades de um sistema de banco.
 
 ## Versão do NodeJs
 Para executar o programa é necessário instalar o Node.js. A versão que usei para desenvolver o sistema é 20.15.1
 
 ## Execução do programa
-Com o sistema já baixado no computador, entre no terminal, no caminho onde está a pasta do projeto, digite:
+Com o sistema já baixado no computador, é necessário instalar a depência. Entre no terminal, no caminho onde está o diretório do projeto, digite o seguinte comando:
 ```bash
 npm install
 ```
-Para instalar a depência do 'prompt'. Esta depêndencia permite a entrada de dados pelo terminal, para que o usuário 
+Assim, a depência do 'prompt-sync' será instalada. Esta depêndencia permite a entrada de dados pelo terminal, para que o usuário 
 interaja com sistema.
 
 Com este processo concluído, digite o seguinte comando para iniciar o programa:
